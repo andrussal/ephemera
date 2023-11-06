@@ -1,3 +1,5 @@
+I implemented it when I worked in Nym, original repo: https://github.com/nymtech/ephemera
+
 # Ephemera - reliable broadcast protocol
 
 ## Ephemera overview
