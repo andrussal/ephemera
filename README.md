@@ -1,4 +1,4 @@
-I implemented it when I worked in Nym, original repo: https://github.com/nymtech/ephemera
+I implemented it when I worked in Nym, original repo: https://github.com/nymtech/nym
 
 # Ephemera - reliable broadcast protocol
 
